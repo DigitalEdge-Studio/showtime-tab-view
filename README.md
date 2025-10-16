@@ -3,7 +3,7 @@
   <h1>Showtime Tab View</h1>
 </div>
 
-A React Native component that supports a collapsible header and custom refresh control, powered by [Reanimated v2](https://docs.swmansion.com/react-native-reanimated/) and [GestureHandler V2](https://docs.swmansion.com/react-native-gesture-handler/docs/).
+A React Native component that supports a collapsible header and custom refresh control, powered by [Reanimated v4](https://docs.swmansion.com/react-native-reanimated/) and [GestureHandler V2](https://docs.swmansion.com/react-native-gesture-handler/docs/).
 <video align="right" width="160" alt="This library helped you? Consider sponsoring!" src="https://user-images.githubusercontent.com/37520667/212389901-764422ef-cf1b-48fc-87af-cfbe7ad1f6e2.mp4" />
 
 ## What
